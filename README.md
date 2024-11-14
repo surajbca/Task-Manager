@@ -16,7 +16,7 @@ A task management application built with React and Material-UI, enabling users t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://surajbca.github.io/Task-Manager/
    ```
 2. Navigate to the project directory:
    ```bash
